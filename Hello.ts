@@ -10,4 +10,9 @@ function theotherfunction()
 {
     console.log('this is the other function---20250209');
 }
+
+function todayNewFunction()
+{
+    console.log('this is the new function---20250209');
+}
 add(1, 2);
